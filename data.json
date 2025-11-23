@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Ansiedade",
+        "descricao": "A ansiedade é uma resposta natural do corpo diante de situações de estresse. Quando se torna constante, pode afetar a concentração, o sono e o bem-estar emocional.",
+        "ano": 1980,
+        "link": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response"
+    },
+    {
+        "nome": "Estresse",
+        "descricao": "O estresse ocorre quando as demandas do dia a dia excedem os recursos emocionais. Pode gerar cansaço, tensão muscular e irritabilidade.",
+        "ano": 1950,
+        "link": "https://www.apa.org/topics/stress"
+    },
+    {
+        "nome": "Burnout",
+        "descricao": "A síndrome de Burnout é caracterizada por exaustão extrema, falta de energia, sensação de incapacidade e redução de desempenho, geralmente relacionada ao ambiente de trabalho.",
+        "ano": 2000,
+        "link": "https://www.who.int/mental_health/evidence/burn-out/en/"
+    },
+    {
+        "nome": "Depressão",
+        "descricao": "A depressão é uma condição emocional que afeta humor, motivação e disposição. Caracteriza-se por tristeza persistente e perda de interesse em atividades antes prazerosas.",
+        "ano": 1980,
+        "link": "https://www.who.int/news-room/fact-sheets/detail/depression"
+    },
+    {
+        "nome": "Transtorno do Pânico",
+        "descricao": "Caracterizado por crises súbitas de medo intenso, acompanhadas de sintomas físicos como falta de ar, palpitações e sensação de perda de controle.",
+        "ano": 1980,
+        "link": "https://www.apa.org/topics/anxiety/panic-disorder"
+    },
+    {
+        "nome": "Insônia",
+        "descricao": "A insônia é a dificuldade de iniciar ou manter o sono. Pode afetar memória, humor, energia e produtividade no dia a dia.",
+        "ano": 1990,
+        "link": "https://www.sleepfoundation.org/insomnia"
+    },
+    {
+        "nome": "Hipersensibilidade Emocional",
+        "descricao": "Condição marcada por reações emocionais intensas, forte empatia e sensibilidade a críticas, ambientes e estímulos.",
+        "ano": 1997,
+        "link": "https://highlysensitiverefuge.com/what-is-highly-sensitive-person/"
+    },
+    {
+        "nome": "TPM Emocional",
+        "descricao": "Variações de humor causadas por alterações hormonais, podendo gerar irritabilidade, sensibilidade emocional e dificuldade de concentração.",
+        "ano": 1931,
+        "link": "https://www.acog.org/womens-health/faqs/premenstrual-syndrome"
+    }
+]
